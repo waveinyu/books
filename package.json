@@ -1,0 +1,23 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "main": "1st.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waveinyu/books.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waveinyu/books/issues"
+  },
+  "homepage": "https://github.com/waveinyu/books#readme",
+  "description": "",
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
